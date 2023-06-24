@@ -30,8 +30,8 @@ Portfolio_analysis
 			- 다중 컬럼은 하나의 컬럼으로 합치기
     		- 다중 인덱스는 컬럼으로 조정
 			- 지역별 고유 ID 생성 및 지도 분할 json파일과 연동<br/>
-		![소멸 지역 시각화](https://github.com/kkyukkyu99/Portfolio_analysis/blob/main/%EC%86%8C%EB%A9%B8%EC%A7%80%EC%97%AD%20%EC%8B%9C%EA%B0%81%ED%99%94.PNG)
-		![소멸 비율 시각화](https://github.com/kkyukkyu99/Portfolio_analysis/blob/main/%EC%86%8C%EB%A9%B8%EB%B9%84%EC%9C%A8%20%EC%8B%9C%EA%B0%81%ED%99%94.PNG)	
+	![소멸 지역 시각화](https://github.com/kkyukkyu99/Portfolio_analysis/blob/main/%EC%86%8C%EB%A9%B8%EC%A7%80%EC%97%AD%20%EC%8B%9C%EA%B0%81%ED%99%94.PNG)
+	![소멸 비율 시각화](https://github.com/kkyukkyu99/Portfolio_analysis/blob/main/%EC%86%8C%EB%A9%B8%EB%B9%84%EC%9C%A8%20%EC%8B%9C%EA%B0%81%ED%99%94.PNG)	
 	
 	5. Report
 		- 광역시 보다 지방 지역에 소멸 위기가 더 심각하다는 것을 알 수 있습니다.
